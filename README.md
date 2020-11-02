@@ -1,4 +1,8 @@
 # Dog-Breed-Classifier
+
+## Medium Article
+
+Please read my blog at https://sidc1998.medium.com/loved-a-dog-use-this-to-know-its-breed-562bba1e8b54
 ## Project Overview
 
 In this project I have used Convolutional Neural Networks (CNN's) for detection of dog breeds. </br>
