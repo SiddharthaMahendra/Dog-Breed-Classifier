@@ -6,12 +6,12 @@ The model performs well and is able to detect the difference between Dog and Hum
 
 ## Images 
 
-1706e18f-96bc-48ca-98f5-ccfbcec51788 (1).JPG - My Profile Picture
-248348-1600x1065-standing-pomeranian-dog.jpg - Pomeranian Dog
-37b276e02ef7b066dc8a0e5f9e24156f.jpg- German Shephard Dog
-golden-retriever-dog-breed-info.jpg - Golden Retriever Dog
-Warren-Buffett-teaching-valuable-lessons-COVID-19-airline-stocks-sell-business-investment.jpg- Warren Buffet
-64051-istock-685469924.jpg - Pug Dog
+1. 1706e18f-96bc-48ca-98f5-ccfbcec51788 (1).JPG - My Profile Picture </br>
+2. 248348-1600x1065-standing-pomeranian-dog.jpg - Pomeranian Dog </br>
+3. 37b276e02ef7b066dc8a0e5f9e24156f.jpg- German Shephard Dog </br>
+4. golden-retriever-dog-breed-info.jpg - Golden Retriever Dog </br>
+5. Warren-Buffett-teaching-valuable-lessons-COVID-19-airline-stocks-sell-business-investment.jpg- Warren Buffet </br>
+6. 64051-istock-685469924.jpg - Pug Dog
 
 ## Evaluation
 
