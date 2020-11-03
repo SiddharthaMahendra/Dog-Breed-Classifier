@@ -6,7 +6,7 @@ Please read my blog at https://sidc1998.medium.com/loved-a-dog-use-this-to-know-
 
 ## Project Motivation
 
-I completed this project as a requirement for the completion of my NanoDegree Program by Udacity
+I completed this project as a requirement for the completion of my NanoDegree Program by Udacity.
 
 ## Project Overview
 
