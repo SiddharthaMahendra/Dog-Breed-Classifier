@@ -25,5 +25,5 @@ The model performs well achieving over 84% accuracy
 
 Convolutional Networks [https://classroom.udacity.com/nanodegrees/nd101-innl/parts/2f2e89f4-2e40-46ac-8874-30cf49daf23c] </br>
 https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53 </br>
-https://towardsdatascience.com/wtf-is-image-classification-8e78a8235acb
-
+https://towardsdatascience.com/wtf-is-image-classification-8e78a8235acb</br>
+https://www.pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/</br>
